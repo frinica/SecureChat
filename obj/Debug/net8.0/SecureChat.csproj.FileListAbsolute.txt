@@ -1,0 +1,14 @@
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\bin\Debug\net8.0\SecureChat.exe
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\bin\Debug\net8.0\SecureChat.deps.json
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\bin\Debug\net8.0\SecureChat.runtimeconfig.json
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\bin\Debug\net8.0\SecureChat.dll
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\bin\Debug\net8.0\SecureChat.pdb
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.AssemblyInfoInputs.cache
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.AssemblyInfo.cs
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.csproj.CoreCompileInputs.cache
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.dll
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\refint\SecureChat.dll
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.pdb
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\SecureChat.genruntimeconfig.cache
+c:\Users\IFrid\OneDrive\Skrivbord\Projekt\SecureChat\obj\Debug\net8.0\ref\SecureChat.dll
